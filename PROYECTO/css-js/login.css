@@ -1,0 +1,27 @@
+body{ 
+background: url(../imagenes/1.png) repeat fixed 0 0;
+background-repeat: no-repeat;
+color:#FFC;
+}
+body,td,th {
+	font-family: Arial;
+	text-align:justify;
+	font-size: 14px;
+	color: #FFC;
+}
+a:link {
+	color: #FFF;
+	text-decoration: none;
+}
+a:visited {
+	text-decoration: none;
+	color: #FFF;
+}
+a:hover {
+	text-decoration: underline;
+	color: #FFF;
+}
+a:active {
+	text-decoration: none;
+	color: #0FF;
+}
